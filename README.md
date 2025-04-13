@@ -11,7 +11,7 @@
 
 | 名称        | 充值方式         | 匿名性  | 年费       | 支持平台                      |
 |-------------|------------------|---------|------------|-------------------------------|
-|[ **Dupay** ](https://dupay.one/web-app/register-h5?invitCode=0ocKlx&lang=zh-cn)| USDT / 支付宝    | 中等    | 免费~$1/月  | Google Play, PayPal, ChatGPT |
+|[ **Dupay** ](https://dupay.one/web-app/register-h5?invitCode=0ocKlx&lang=zh-cn)| USDT / 支付宝    | 轻享卡不需要KFC    | 免费~$1/月  | Google Play, PayPal, ChatGPT |
 | [**Bybit Card**](https://www.bybit.com/fiat/cards?source=referral&campaignId=1686258086857150464&ref=LWD7E15) | USDT   | 需要KYC | 免费       | 可提现，支持实体卡           |
 | [**WildCard**](https://yeka.ai/i/IIY4PI3V) | 支付宝 / 微信   | 无需KYC | $11.99/年  | Midjourney, GPTs, Spotify    |
 | **Okpay**   | 加密货币         | ✅ 匿名 | $5 开卡费   | Telegram Premium, AI工具等    |
