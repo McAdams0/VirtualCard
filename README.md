@@ -62,9 +62,6 @@
 - **Bybit Card**：适合实体卡提现，消费返现  
 - **WildCard**：适合低门槛订阅海外服务  
 - **Okpay**：适合匿名使用 AI / 广告账户
-
-📄 原文链接：[年度虚拟卡横评](https://www.xunikaa.com)
-
 ---
 
 ## 💡 联系与版权
@@ -73,4 +70,3 @@
 - 欢迎 Fork / Star / 分享本仓库
 - 如有品牌合作或 API 授权需求，请在官网留言或发邮件联系
 
-📬 网站地址：https://www.xunikaa.com
